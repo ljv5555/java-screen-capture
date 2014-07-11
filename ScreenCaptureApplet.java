@@ -1,7 +1,6 @@
 /**
  * 
  */
-package com.kana.util.screencapture;
 
 import java.applet.Applet;
 import java.awt.Dimension;
